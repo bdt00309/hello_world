@@ -1,0 +1,31 @@
+package helloWorld;
+
+public class Code06 {
+
+	public static void main(String[] args) {
+
+		int[] grades;
+		grades = new int[5];
+
+		double[] array;
+		array = new double [100];
+
+		char[] word = new char[20];
+
+		
+		grades[0] = 100;
+		grades[1] = 76;
+		grades[2] = 92;
+		grades[3] = 95;
+		grades[4] = 14;
+
+		int i = 0;
+
+		while(i<grades.length) {
+			System.out.println("Grade " + (i+1) + ": " + grades[i]);
+			i++;
+		}
+
+	}
+
+}

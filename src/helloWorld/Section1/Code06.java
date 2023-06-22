@@ -1,4 +1,4 @@
-package helloWorld;
+package helloWorld.Section1;
 
 public class Code06 {
 

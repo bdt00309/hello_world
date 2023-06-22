@@ -1,4 +1,4 @@
-package helloWorld;
+package helloWorld.Section1;
 
 import java.util.Scanner;
 
